@@ -1,6 +1,6 @@
-#School Management
+# School Management
 
-##The school System
+## The school System
 
 This project was brought to us to help us manage our school Systems.
 
